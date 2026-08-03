@@ -72,42 +72,7 @@ I care more about boundaries and testability than about frameworks — the frame
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=facuCARP09&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a0e18&title_color=ff6ac1&icon_color=ff9ed8&text_color=ffc9e8&ring_color=ff6ac1" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facuCARP09&layout=compact&langs_count=8&hide_border=true&bg_color=1a0e18&title_color=ff6ac1&text_color=ffc9e8" alt="Top languages" />
-
-<br />
-
 <img src="https://streak-stats.demolab.com?user=facuCARP09&hide_border=true&background=1a0e18&border=ff6ac1&stroke=e6479f&ring=ff6ac1&fire=ff9ed8&currStreakNum=ffe4f3&currStreakLabel=ff6ac1&sideNums=ffc9e8&sideLabels=ffc9e8&dates=ff9ed8" alt="GitHub streak" />
-
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=facuCARP09&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="GitHub trophies" />
-
-</div>
-
----
-
-## Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=facuCARP09&theme=radical" alt="Profile details" />
-
-<br />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=facuCARP09&theme=radical" alt="Repos per language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=facuCARP09&theme=radical" alt="Most commit language" />
-
-<br />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=facuCARP09&theme=radical" alt="Stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=facuCARP09&theme=radical&utcOffset=-3" alt="Productive time" />
 
 </div>
 
