@@ -53,7 +53,8 @@ También quiero sacar más cosas, pero no me da la vida.
 <a href="https://github.com/EternumLabs"><img src="https://avatars.githubusercontent.com/u/166798385?s=120&v=4" width="72" alt="Eternum Lab's" /><br /><b>Eternum Lab's</b></a>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/PolaroidStudio"><img src="https://avatars.githubusercontent.com/u/291825481?s=120&v=4" width="72" alt="Polaroid Studio" /><br /><b>Polaroid Studio</b></a>
+<a href="https://github.com/PolaroidStudio"><img src="https://avatars.githubusercontent.com/u/291825481?s=120&v=4" width="72" alt="Polaroid Studio" /><br /><b>Polaroid Studio</b></a><br />
+<sub><i>acá las cosas son del DJ<br />a mí me agregaron para<br />bajar un bot de Discord</i></sub>
 </td>
 </tr>
 </table>
