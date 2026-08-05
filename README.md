@@ -101,6 +101,17 @@ También quiero sacar más cosas, pero no me da la vida.
 
 ---
 
+## Setup
+
+<div align="center">
+
+<img width="49%" src="assets/setup-1.jpg" alt="Setup" />
+<img width="49%" src="assets/setup-2.jpg" alt="Setup" />
+
+</div>
+
+---
+
 ## Estadísticas
 
 <div align="center">
