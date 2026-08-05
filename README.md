@@ -59,9 +59,26 @@ Argentina
 
 ## Tecnologías
 
+**Lenguajes**
+
 <p>
 <img src="https://img.shields.io/badge/Java-ff6ac1?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a0e18" alt="Java" />
-<img src="https://img.shields.io/badge/Git-ff6ac1?style=for-the-badge&logo=git&logoColor=white&labelColor=1a0e18" alt="Git" />
+<img src="https://img.shields.io/badge/TypeScript-ff6ac1?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a0e18" alt="TypeScript" />
+<img src="https://img.shields.io/badge/HTML5-ff6ac1?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a0e18" alt="HTML5" />
+</p>
+
+**Bases de datos**
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-f45cb0?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a0e18" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-f45cb0?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a0e18" alt="MongoDB" />
+</p>
+
+**Infraestructura**
+
+<p>
+<img src="https://img.shields.io/badge/Vercel-e6479f?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0e18" alt="Vercel" />
+<img src="https://img.shields.io/badge/Git-e6479f?style=for-the-badge&logo=git&logoColor=white&labelColor=1a0e18" alt="Git" />
 </p>
 
 ---
