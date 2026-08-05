@@ -53,11 +53,18 @@ También quiero sacar más cosas, pero no me da la vida.
 <a href="https://github.com/EternumLabs"><img src="https://avatars.githubusercontent.com/u/166798385?s=120&v=4" width="72" alt="Eternum Lab's" /><br /><b>Eternum Lab's</b></a>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/PolaroidStudio"><img src="https://avatars.githubusercontent.com/u/291825481?s=120&v=4" width="72" alt="Polaroid Studio" /><br /><b>Polaroid Studio</b></a><br />
-<sub><i>acá las cosas son del DJ<br />a mí me agregaron para<br />bajar un bot de Discord</i></sub>
+<a href="https://github.com/PolaroidStudio"><img src="https://avatars.githubusercontent.com/u/291825481?s=120&v=4" width="72" alt="Polaroid Studio" /><br /><b>Polaroid Studio</b></a>
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+> **Aclaración sobre Polaroid Studio**
+> Ahí las cosas son del DJ.
+> A mí me agregaron para bajar un bot de Discord.
+
+</div>
 
 ---
 
@@ -89,7 +96,7 @@ También quiero sacar más cosas, pero no me da la vida.
 
 <p>
 <img src="https://img.shields.io/badge/ReliableSite-Hosting-ff9ed8?style=for-the-badge&labelColor=1a0e18" alt="ReliableSite" />
-<img src="https://img.shields.io/badge/V4Guard-Anti--VPN-ff9ed8?style=for-the-badge&labelColor=1a0e18" alt="V4Guard" />
+<img src="https://img.shields.io/badge/V4Guard-Anti--DDoS%20%2B%20Anti--VPN-ff9ed8?style=for-the-badge&labelColor=1a0e18" alt="V4Guard" />
 </p>
 
 ---
