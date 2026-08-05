@@ -81,6 +81,13 @@ Argentina
 <img src="https://img.shields.io/badge/Git-e6479f?style=for-the-badge&logo=git&logoColor=white&labelColor=1a0e18" alt="Git" />
 </p>
 
+**Hosting y protección**
+
+<p>
+<img src="https://img.shields.io/badge/ReliableSite-Hosting-ff9ed8?style=for-the-badge&labelColor=1a0e18" alt="ReliableSite" />
+<img src="https://img.shields.io/badge/V4Guard-Anti--DDoS%20%2F%20VPN-ff9ed8?style=for-the-badge&labelColor=1a0e18" alt="V4Guard" />
+</p>
+
 ---
 
 ## Estadísticas
