@@ -13,7 +13,9 @@
 ## Sobre mí
 
 Armo y mantengo proyectos en cuatro organizaciones: servidores de Minecraft
-(HaliaCraft, UranoCraft), sus tiendas y trabajo de studio.
+(HaliaCraft, UranoCraft, Sayer) y sus tiendas.
+
+También quiero sacar más cosas, pero no me da la vida.
 
 <div align="center">
 
@@ -26,8 +28,10 @@ Armo y mantengo proyectos en cuatro organizaciones: servidores de Minecraft
 <img src="https://img.shields.io/badge/Claude-MAX-ff6ac1?style=for-the-badge&logo=claude&logoColor=white&labelColor=1a0e18" alt="Claude MAX" />
 <img src="https://img.shields.io/badge/ChatGPT-Plus-ff6ac1?style=for-the-badge&labelColor=1a0e18" alt="ChatGPT" />
 <img src="https://img.shields.io/badge/Gemini-Pro-ff6ac1?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=1a0e18" alt="Gemini" />
+<img src="https://img.shields.io/badge/Notion-ff6ac1?style=for-the-badge&logo=notion&logoColor=white&labelColor=1a0e18" alt="Notion" />
+<img src="https://img.shields.io/badge/iCloud-ff6ac1?style=for-the-badge&logo=icloud&logoColor=white&labelColor=1a0e18" alt="iCloud" />
 
-**Yo los tengo los tres. Vos no.**
+**Yo los tengo todos. Vos no.**
 
 *Este README también lo hizo la IA. Y este renglón. Y el de abajo.*
 
