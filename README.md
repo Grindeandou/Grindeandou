@@ -14,8 +14,8 @@
 Software architect focused on **Clean / Hexagonal / Screaming Architecture**.
 I care more about boundaries and testability than about frameworks — the framework is a detail.
 
-I build and maintain projects across four organizations, spanning game servers,
-storefronts and studio work.
+I build and maintain projects across four organizations — Minecraft servers
+(HaliaCraft, UranoCraft), their storefronts, and studio work.
 
 - Designing systems where the domain does not depend on infrastructure
 - Behavior-first testing over coverage theater
