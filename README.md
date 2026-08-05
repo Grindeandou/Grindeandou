@@ -19,7 +19,7 @@ Armo y mantengo proyectos en cuatro organizaciones: servidores de Minecraft
 
 ### 🛒 Hago ecommerce y vendo cosas
 
-### 🤖 Pero todo lo hago con IA
+### 🤖 Todo esto lo hice con IA
 
 *Yo solo apruebo los cambios.*
 
@@ -43,13 +43,16 @@ Armo y mantengo proyectos en cuatro organizaciones: servidores de Minecraft
 <a href="https://github.com/CherryNode"><img src="https://avatars.githubusercontent.com/u/305557254?s=120&v=4" width="72" alt="CherryNode" /><br /><b>CherryNode</b></a>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/HaliaCraft"><img src="https://avatars.githubusercontent.com/u/256242598?s=120&v=4" width="72" alt="HaliaCraft" /><br /><b>HaliaCraft</b></a>
+<a href="https://github.com/HaliaCraft"><img src="https://avatars.githubusercontent.com/u/256242598?s=120&v=4" width="72" alt="HaliaCraft" /><br /><b>HaliaCraft</b></a><br />
+<a href="https://tienda.haliacraft.com">tienda.haliacraft.com</a>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/EternumLabs"><img src="https://avatars.githubusercontent.com/u/166798385?s=120&v=4" width="72" alt="Eternum Lab's" /><br /><b>Eternum Lab's</b></a>
+<a href="https://github.com/EternumLabs"><img src="https://avatars.githubusercontent.com/u/166798385?s=120&v=4" width="72" alt="Eternum Lab's" /><br /><b>Eternum Lab's</b></a><br />
+Argentina
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/PolaroidStudio"><img src="https://avatars.githubusercontent.com/u/291825481?s=120&v=4" width="72" alt="Polaroid Studio" /><br /><b>Polaroid Studio</b></a>
+<a href="https://github.com/PolaroidStudio"><img src="https://avatars.githubusercontent.com/u/291825481?s=120&v=4" width="72" alt="Polaroid Studio" /><br /><b>Polaroid Studio</b></a><br />
+<a href="https://polaroidstudio.online">polaroidstudio.online</a>
 </td>
 </tr>
 </table>
