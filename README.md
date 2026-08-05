@@ -14,6 +14,9 @@
 Software architect focused on **Clean / Hexagonal / Screaming Architecture**.
 I care more about boundaries and testability than about frameworks — the framework is a detail.
 
+I build and maintain projects across four organizations, spanning game servers,
+storefronts and studio work.
+
 - Designing systems where the domain does not depend on infrastructure
 - Behavior-first testing over coverage theater
 - Atomic Design and the container/presentational split on the frontend
@@ -23,11 +26,36 @@ I care more about boundaries and testability than about frameworks — the frame
 
 ---
 
+## Organizations
+
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://github.com/CherryNode"><img src="https://avatars.githubusercontent.com/u/305557254?s=120&v=4" width="72" alt="CherryNode" /><br /><b>CherryNode</b></a>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/HaliaCraft"><img src="https://avatars.githubusercontent.com/u/256242598?s=120&v=4" width="72" alt="HaliaCraft" /><br /><b>HaliaCraft</b></a><br />
+<a href="https://tienda.haliacraft.com">tienda.haliacraft.com</a>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/EternumLabs"><img src="https://avatars.githubusercontent.com/u/166798385?s=120&v=4" width="72" alt="Eternum Labs" /><br /><b>Eternum Lab's</b></a><br />
+Argentina
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/PolaroidStudio"><img src="https://avatars.githubusercontent.com/u/291825481?s=120&v=4" width="72" alt="Polaroid Studio" /><br /><b>Polaroid Studio</b></a><br />
+<a href="https://polaroidstudio.online">polaroidstudio.online</a>
+</td>
+</tr>
+</table>
+
+---
+
 ## Tech
 
 **Languages**
 
 <p>
+<img src="https://img.shields.io/badge/Java-ff6ac1?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a0e18" alt="Java" />
 <img src="https://img.shields.io/badge/TypeScript-ff6ac1?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a0e18" alt="TypeScript" />
 <img src="https://img.shields.io/badge/JavaScript-ff6ac1?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1a0e18" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Go-ff6ac1?style=for-the-badge&logo=go&logoColor=white&labelColor=1a0e18" alt="Go" />
