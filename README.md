@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0e18,50:e6479f,100:ff9ed8&height=200&section=header&text=Facundo&fontSize=70&fontColor=ffe4f3&fontAlignY=34&animation=fadeIn&desc=Servidores%20de%20Minecraft%20%C2%B7%20Tiendas%20%C2%B7%20Studio&descAlignY=54&descSize=16" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0e18,50:e6479f,100:ff9ed8&height=200&section=header&text=Facundo&fontSize=70&fontColor=ffe4f3&fontAlignY=34&animation=fadeIn&desc=Servidores%20de%20Minecraft%2C%20y%20m%C3%A1s&descAlignY=54&descSize=17" alt="header" />
 
 <div align="center">
 
@@ -20,6 +20,12 @@ Armo y mantengo proyectos en cuatro organizaciones: servidores de Minecraft
 ### 🤖 Todo esto lo hice con IA
 
 *Yo solo apruebo los cambios.*
+
+<img src="https://img.shields.io/badge/Claude-MAX-ff6ac1?style=for-the-badge&logo=claude&logoColor=white&labelColor=1a0e18" alt="Claude MAX" />
+<img src="https://img.shields.io/badge/ChatGPT-Plus-ff6ac1?style=for-the-badge&labelColor=1a0e18" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/Gemini-Pro-ff6ac1?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=1a0e18" alt="Gemini" />
+
+**Yo los tengo los tres. Vos no.**
 
 *Este README también lo hizo la IA. Y este renglón. Y el de abajo.*
 
@@ -64,7 +70,7 @@ Argentina
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=facuCARP09&hide_border=true&locale=es&background=1a0e18&border=ff6ac1&stroke=e6479f&ring=ff6ac1&fire=ff9ed8&currStreakNum=ffe4f3&currStreakLabel=ff6ac1&sideNums=ffc9e8&sideLabels=ffc9e8&dates=ff9ed8" alt="racha de GitHub" />
+<img src="https://streak-stats.demolab.com?user=facuCARP09&hide_border=true&locale=es&disable_animations=true&background=1a0e18&border=ff6ac1&stroke=e6479f&ring=ff6ac1&fire=ff9ed8&currStreakNum=ffe4f3&currStreakLabel=ff6ac1&sideNums=ffc9e8&sideLabels=ffc9e8&dates=ff9ed8" alt="racha de GitHub" />
 
 </div>
 
