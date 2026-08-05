@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FfacuCARP09&label=Visitas&labelColor=%231a0e18&countColor=%23ff6ac1&style=flat-square" alt="visitas" />
-<a href="https://github.com/facuCARP09?tab=followers"><img src="https://img.shields.io/github/followers/facuCARP09?style=flat-square&color=ff6ac1&labelColor=1a0e18&logo=github&label=seguidores" alt="seguidores" /></a>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGrindeandou&label=Visitas&labelColor=%231a0e18&countColor=%23ff6ac1&style=flat-square" alt="visitas" />
+<a href="https://github.com/Grindeandou?tab=followers"><img src="https://img.shields.io/github/followers/Grindeandou?style=flat-square&color=ff6ac1&labelColor=1a0e18&logo=github&label=seguidores" alt="seguidores" /></a>
 <img src="https://img.shields.io/badge/hecho%20con-IA-ff6ac1?style=flat-square&labelColor=1a0e18" alt="hecho con IA" />
 
 </div>
@@ -105,7 +105,7 @@ También quiero sacar más cosas, pero no me da la vida.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=facuCARP09&hide_border=true&locale=es&disable_animations=true&background=1a0e18&border=ff6ac1&stroke=e6479f&ring=ff6ac1&fire=ff9ed8&currStreakNum=ffe4f3&currStreakLabel=ff6ac1&sideNums=ffc9e8&sideLabels=ffc9e8&dates=ff9ed8" alt="racha de GitHub" />
+<img src="https://streak-stats.demolab.com?user=Grindeandou&hide_border=true&locale=es&disable_animations=true&background=1a0e18&border=ff6ac1&stroke=e6479f&ring=ff6ac1&fire=ff9ed8&currStreakNum=ffe4f3&currStreakLabel=ff6ac1&sideNums=ffc9e8&sideLabels=ffc9e8&dates=ff9ed8" alt="racha de GitHub" />
 
 </div>
 
@@ -115,7 +115,7 @@ También quiero sacar más cosas, pero no me da la vida.
 
 <p align="center">
 <a href="mailto:facuderiver912@gmail.com"><img src="https://img.shields.io/badge/Email-ff6ac1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0e18" alt="Email" /></a>
-<a href="https://github.com/facuCARP09"><img src="https://img.shields.io/badge/GitHub-ff6ac1?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0e18" alt="GitHub" /></a>
+<a href="https://github.com/Grindeandou"><img src="https://img.shields.io/badge/GitHub-ff6ac1?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0e18" alt="GitHub" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ed8,50:e6479f,100:1a0e18&height=120&section=footer" alt="footer" />
