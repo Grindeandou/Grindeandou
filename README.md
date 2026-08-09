@@ -30,6 +30,7 @@ También quiero sacar más cosas, pero no me da la vida.
 <img src="https://img.shields.io/badge/Gemini-Pro-ff6ac1?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=1a0e18" alt="Gemini" />
 <img src="https://img.shields.io/badge/Notion-ff6ac1?style=for-the-badge&logo=notion&logoColor=white&labelColor=1a0e18" alt="Notion" />
 <img src="https://img.shields.io/badge/iCloud-ff6ac1?style=for-the-badge&logo=icloud&logoColor=white&labelColor=1a0e18" alt="iCloud" />
+<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-ff6ac1?style=for-the-badge&logo=adobecreativecloud&logoColor=white&labelColor=1a0e18" alt="Adobe Creative Cloud" />
 
 **Yo los tengo todos. Vos no.**
 
@@ -61,8 +62,8 @@ También quiero sacar más cosas, pero no me da la vida.
 <div align="center">
 
 > **Aclaración sobre Polaroid Studio**
-> Ahí las cosas son del DJ.
-> A mí me agregaron para bajar un bot de Discord.
+> Ahí está todo el quilombo del DJ, nada de eso es mío.
+> A mí me metieron solo para clonar un bot de Discord.
 
 </div>
 
@@ -109,6 +110,20 @@ También quiero sacar más cosas, pero no me da la vida.
 <img width="49%" src="assets/setup-2.jpg" alt="Setup" />
 
 </div>
+
+<table align="center">
+<tr><td><b>CPU</b></td><td>Intel Core i9-12900K</td></tr>
+<tr><td><b>GPU</b></td><td>NVIDIA GeForce RTX 4070 Ti</td></tr>
+<tr><td><b>RAM</b></td><td>64 GB — 4 × 16 GB</td></tr>
+<tr><td><b>Monitor principal</b></td><td>Samsung — 24", 240 Hz, curvo</td></tr>
+<tr><td><b>Monitor 2</b></td><td>Samsung Odyssey CRG5 — 24", 144 Hz, curvo</td></tr>
+<tr><td><b>Monitor 3</b></td><td>Samsung Odyssey G30 (S24BG30) — 24", 144 Hz</td></tr>
+<tr><td><b>Teclado</b></td><td>Aula · HyperX Alloy FPS</td></tr>
+<tr><td><b>Mouse</b></td><td>Logitech · ATK</td></tr>
+<tr><td><b>Mousepad</b></td><td>ATK Otaku · HyperX</td></tr>
+<tr><td><b>Micrófono</b></td><td>HyperX</td></tr>
+<tr><td><b>Auriculares</b></td><td>HyperX Cloud II · KZ Castor</td></tr>
+</table>
 
 ---
 
