@@ -13,7 +13,7 @@
 ## Sobre mí
 
 Armo y mantengo proyectos en cuatro organizaciones: servidores de Minecraft
-(HaliaCraft, UranoCraft, Sayer) y sus tiendas.
+(HaliaCraft, UranoCraft, Sayer).
 
 También quiero sacar más cosas, pero no me da la vida.
 
