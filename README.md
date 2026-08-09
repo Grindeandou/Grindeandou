@@ -23,7 +23,7 @@ También quiero sacar más cosas, pero no me da la vida.
 
 ### 🤖 Todo esto lo hice con IA
 
-*Yo solo apruebo los cambios.*
+*Igual hay que saber qué pedirle.*
 
 <img src="https://img.shields.io/badge/Claude-MAX-ff6ac1?style=for-the-badge&logo=claude&logoColor=white&labelColor=1a0e18" alt="Claude MAX" />
 <img src="https://img.shields.io/badge/ChatGPT-Plus-ff6ac1?style=for-the-badge&labelColor=1a0e18" alt="ChatGPT" />
@@ -46,15 +46,15 @@ También quiero sacar más cosas, pero no me da la vida.
 <tr>
 <td align="center" width="33%">
 <a href="https://haliacraft.com"><b>HaliaCraft</b><br /><sub>haliacraft.com</sub></a><br />
-<sub>Servidor de Minecraft y tienda</sub>
+<sub>Servidor de Minecraft</sub>
 </td>
 <td align="center" width="33%">
 <a href="https://uranocraft.net"><b>UranoCraft</b><br /><sub>uranocraft.net</sub></a><br />
-<sub>Servidor de Minecraft y tienda</sub>
+<sub>Servidor de Minecraft</sub>
 </td>
 <td align="center" width="33%">
 <a href="https://sayer.live"><b>Sayer</b><br /><sub>sayer.live</sub></a><br />
-<sub>Servidor de Minecraft y tienda</sub>
+<sub>Servidor de Minecraft</sub>
 </td>
 </tr>
 </table>
