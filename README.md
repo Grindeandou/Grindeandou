@@ -40,6 +40,27 @@ También quiero sacar más cosas, pero no me da la vida.
 
 ---
 
+## Proyectos
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<a href="https://haliacraft.com"><b>HaliaCraft</b><br /><sub>haliacraft.com</sub></a><br />
+<sub>Servidor de Minecraft y tienda</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://uranocraft.net"><b>UranoCraft</b><br /><sub>uranocraft.net</sub></a><br />
+<sub>Servidor de Minecraft y tienda</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://sayer.live"><b>Sayer</b><br /><sub>sayer.live</sub></a><br />
+<sub>Servidor de Minecraft y tienda</sub>
+</td>
+</tr>
+</table>
+
+---
+
 ## Organizaciones
 
 <table>
@@ -104,19 +125,21 @@ También quiero sacar más cosas, pero no me da la vida.
 
 ## Setup
 
+<details>
+<summary><b>Specs</b> — i9-12900K · RTX 4070 Ti · 64 GB · 3 monitores</summary>
+
+<br />
+
 <table align="center">
 <tr><td><b>CPU</b></td><td>Intel Core i9-12900K</td></tr>
 <tr><td><b>GPU</b></td><td>NVIDIA GeForce RTX 4070 Ti</td></tr>
 <tr><td><b>RAM</b></td><td>64 GB — 4 × 16 GB</td></tr>
-<tr><td><b>Monitor principal</b></td><td>Samsung Odyssey CRG5 — 24", 240 Hz, curvo</td></tr>
-<tr><td><b>Monitor 2</b></td><td>Samsung Odyssey CRG5 — 24", 144 Hz, curvo</td></tr>
-<tr><td><b>Monitor 3</b></td><td>Samsung Odyssey G30 (S24BG30) — 24", 144 Hz</td></tr>
-<tr><td><b>Teclado</b></td><td>Aula · HyperX Alloy FPS</td></tr>
-<tr><td><b>Mouse</b></td><td>Logitech · ATK</td></tr>
-<tr><td><b>Mousepad</b></td><td>ATK Otaku · HyperX</td></tr>
-<tr><td><b>Micrófono</b></td><td>HyperX</td></tr>
-<tr><td><b>Auriculares</b></td><td>HyperX Cloud II · KZ Castor</td></tr>
+<tr><td><b>Monitores</b></td><td>Samsung Odyssey CRG5 24" 240 Hz curvo (principal) · CRG5 24" 144 Hz curvo · Odyssey G30 S24BG30 24" 144 Hz</td></tr>
+<tr><td><b>Periféricos</b></td><td>Teclado Aula · HyperX Alloy FPS — Mouse Logitech · ATK — Mousepad ATK Otaku · HyperX</td></tr>
+<tr><td><b>Audio</b></td><td>Micrófono HyperX — Auriculares HyperX Cloud II · KZ Castor</td></tr>
 </table>
+
+</details>
 
 <div align="center">
 
