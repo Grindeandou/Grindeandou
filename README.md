@@ -104,13 +104,6 @@ También quiero sacar más cosas, pero no me da la vida.
 
 ## Setup
 
-<div align="center">
-
-<img width="49%" src="assets/setup-1.jpg" alt="Setup" />
-<img width="49%" src="assets/setup-2.jpg" alt="Setup" />
-
-</div>
-
 <table align="center">
 <tr><td><b>CPU</b></td><td>Intel Core i9-12900K</td></tr>
 <tr><td><b>GPU</b></td><td>NVIDIA GeForce RTX 4070 Ti</td></tr>
@@ -124,6 +117,13 @@ También quiero sacar más cosas, pero no me da la vida.
 <tr><td><b>Micrófono</b></td><td>HyperX</td></tr>
 <tr><td><b>Auriculares</b></td><td>HyperX Cloud II · KZ Castor</td></tr>
 </table>
+
+<div align="center">
+
+<img width="49%" src="assets/setup-1.jpg" alt="Setup" />
+<img width="49%" src="assets/setup-2.jpg" alt="Setup" />
+
+</div>
 
 ---
 
